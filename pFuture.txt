@@ -1,0 +1,12 @@
+#include ioctl.h
+#include math.h
+#include iostream.h
+
+var = utime;
+var = insgh;
+ for utime, i++;
+ printf
+ 
+if ingh != cos dns dig bound
+# hahahaha, to set a utime for any action, per human...
+# Then, analyse behavior for black rooting...
